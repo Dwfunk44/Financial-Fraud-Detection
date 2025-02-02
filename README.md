@@ -8,6 +8,8 @@ Dataset
 
 The dataset used in this project is a simulated financial transaction dataset with the following key features:
 
+Website: https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download
+
 amount: The amount of the transaction.
 oldbalanceOrg: The balance in the origin account before the transaction.
 newbalanceOrig: The balance in the origin account after the transaction.
